@@ -5,7 +5,7 @@ Olá, meu nome é @RenatoFR2
 - 😄 Pronomes:ele/dele ...
 - ⚡ Curiosidade: estudante de ensino médio ...
 
-!(https://www.google.com/url?sa=i&url=https%3A%2F%2Faminoapps.com%2Fpage%2Fotanix%2F840456%2Fgifs-engracados-de-naruto&psig=AOvVaw2xRpoyKxCcraxhmjcLo7T-&ust=1727783202536000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKi705vM6ogDFQAAAAAdAAAAABAE)[]
+!()[https://www.google.com/url?sa=i&url=https%3A%2F%2Faminoapps.com%2Fpage%2Fotanix%2F840456%2Fgifs-engracados-de-naruto&psig=AOvVaw2xRpoyKxCcraxhmjcLo7T-&ust=1727783202536000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKi705vM6ogDFQAAAAAdAAAAABAE]
 RenatoFR2/RenatoFR2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
